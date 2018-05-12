@@ -1,10 +1,16 @@
 _repo: Fissure-of-the-Anus-and-Fistula-in-Ano_47387
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47387-h/images/cover.jpg
 creator:
   author:
     agent_name: Adler, Lewis H.
     gutenberg_agent_id: '44289'
     url: http://www.gutenberg.org/2009/agents/44289
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47387#Fissure-of-the-Anus-and-Fistula-in-Ano
 gutenberg_issued: '2014-11-17'
 gutenberg_type: Text
 identifiers:
